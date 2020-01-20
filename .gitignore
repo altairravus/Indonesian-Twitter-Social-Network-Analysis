@@ -1,0 +1,7 @@
+*.env
+*.log
+*.html
+*.csv
+*.net
+*.gephi
+examples/
